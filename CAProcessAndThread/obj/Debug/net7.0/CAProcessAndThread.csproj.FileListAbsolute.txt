@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net7.0\CAProcessAndThread.exe
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net7.0\CAProcessAndThread.deps.json
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net7.0\CAProcessAndThread.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net7.0\CAProcessAndThread.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\bin\Debug\net7.0\CAProcessAndThread.pdb
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net7.0\refint\CAProcessAndThread.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.pdb
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net7.0\CAProcessAndThread.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAProcessAndThread\obj\Debug\net7.0\ref\CAProcessAndThread.dll
