@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\obj\Debug\net7.0\CAMultithreading.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\obj\Debug\net7.0\CAMultithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\obj\Debug\net7.0\CAMultithreading.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\obj\Debug\net7.0\CAMultithreading.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\obj\Debug\net7.0\CAMultithreading.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\bin\Debug\net7.0\CAMultithreading.exe
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\bin\Debug\net7.0\CAMultithreading.deps.json
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\bin\Debug\net7.0\CAMultithreading.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\bin\Debug\net7.0\CAMultithreading.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\bin\Debug\net7.0\CAMultithreading.pdb
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\obj\Debug\net7.0\CAMultithreading.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\obj\Debug\net7.0\refint\CAMultithreading.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\obj\Debug\net7.0\CAMultithreading.pdb
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\obj\Debug\net7.0\CAMultithreading.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAMultithreading\obj\Debug\net7.0\ref\CAMultithreading.dll
