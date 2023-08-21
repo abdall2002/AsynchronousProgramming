@@ -16,7 +16,7 @@ Console.WriteLine($"after declaration {t1.Name} state is: {t1.ThreadState}");
 
 t1.Start();
 Console.WriteLine($"after start() {t1.Name} state is: {t1.ThreadState}");
-//t1.Join();
+t1.Join();
 
 Thread t2 = new Thread(new ThreadStart(wallet.RunRandomTransactions));  // T1,T2 Working in parallel;
 t2.Name = "T2";
