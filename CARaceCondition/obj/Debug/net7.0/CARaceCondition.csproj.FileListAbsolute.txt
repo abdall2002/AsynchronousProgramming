@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\bin\Debug\net7.0\CARaceCondition.exe
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\bin\Debug\net7.0\CARaceCondition.deps.json
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\bin\Debug\net7.0\CARaceCondition.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\bin\Debug\net7.0\CARaceCondition.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\bin\Debug\net7.0\CARaceCondition.pdb
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\obj\Debug\net7.0\CARaceCondition.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\obj\Debug\net7.0\CARaceCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\obj\Debug\net7.0\CARaceCondition.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\obj\Debug\net7.0\CARaceCondition.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\obj\Debug\net7.0\CARaceCondition.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\obj\Debug\net7.0\CARaceCondition.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\obj\Debug\net7.0\refint\CARaceCondition.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\obj\Debug\net7.0\CARaceCondition.pdb
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\obj\Debug\net7.0\CARaceCondition.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CARaceCondition\obj\Debug\net7.0\ref\CARaceCondition.dll
