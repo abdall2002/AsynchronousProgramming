@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAProcessAndThread", "CAProcessAndThread\CAProcessAndThread.csproj", "{7154A34D-30A3-4C97-8F66-4FEC54AB168A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CASequential", "CASequential\CASequential.csproj", "{AC1773C4-1F07-4C73-B9AE-4E5E26AACA87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7154A34D-30A3-4C97-8F66-4FEC54AB168A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7154A34D-30A3-4C97-8F66-4FEC54AB168A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7154A34D-30A3-4C97-8F66-4FEC54AB168A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1773C4-1F07-4C73-B9AE-4E5E26AACA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1773C4-1F07-4C73-B9AE-4E5E26AACA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1773C4-1F07-4C73-B9AE-4E5E26AACA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1773C4-1F07-4C73-B9AE-4E5E26AACA87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

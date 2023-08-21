@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\bin\Debug\net7.0\CASequential.exe
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\bin\Debug\net7.0\CASequential.deps.json
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\bin\Debug\net7.0\CASequential.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\bin\Debug\net7.0\CASequential.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\bin\Debug\net7.0\CASequential.pdb
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\obj\Debug\net7.0\CASequential.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\obj\Debug\net7.0\CASequential.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\obj\Debug\net7.0\CASequential.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\obj\Debug\net7.0\CASequential.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\obj\Debug\net7.0\CASequential.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\obj\Debug\net7.0\CASequential.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\obj\Debug\net7.0\refint\CASequential.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\obj\Debug\net7.0\CASequential.pdb
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\obj\Debug\net7.0\CASequential.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CASequential\obj\Debug\net7.0\ref\CASequential.dll
