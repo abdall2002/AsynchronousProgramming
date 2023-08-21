@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAMultithreading", "CAMulti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CARaceCondition", "CARaceCondition\CARaceCondition.csproj", "{9FD9302B-B8ED-4AB3-95D0-81121E633296}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADeadLock", "CADeadLock\CADeadLock.csproj", "{240ED5DF-B6ED-415A-B8B1-9B1043676F64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9FD9302B-B8ED-4AB3-95D0-81121E633296}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FD9302B-B8ED-4AB3-95D0-81121E633296}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FD9302B-B8ED-4AB3-95D0-81121E633296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240ED5DF-B6ED-415A-B8B1-9B1043676F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240ED5DF-B6ED-415A-B8B1-9B1043676F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240ED5DF-B6ED-415A-B8B1-9B1043676F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240ED5DF-B6ED-415A-B8B1-9B1043676F64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

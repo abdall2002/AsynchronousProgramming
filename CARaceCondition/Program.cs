@@ -3,7 +3,7 @@
 using System;
 using CARaceCondition;
 
-var wallet = new Wallet("Issam", 100);
+var wallet = new Wallet("Issam", 50);
 
 //wallet.Debit(40);
 //wallet.Debit(30); // 10

@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\bin\Debug\net7.0\CADeadLock.exe
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\bin\Debug\net7.0\CADeadLock.deps.json
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\bin\Debug\net7.0\CADeadLock.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\bin\Debug\net7.0\CADeadLock.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\bin\Debug\net7.0\CADeadLock.pdb
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\obj\Debug\net7.0\CADeadLock.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\obj\Debug\net7.0\CADeadLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\obj\Debug\net7.0\CADeadLock.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\obj\Debug\net7.0\CADeadLock.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\obj\Debug\net7.0\CADeadLock.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\obj\Debug\net7.0\CADeadLock.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\obj\Debug\net7.0\refint\CADeadLock.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\obj\Debug\net7.0\CADeadLock.pdb
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\obj\Debug\net7.0\CADeadLock.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CADeadLock\obj\Debug\net7.0\ref\CADeadLock.dll
