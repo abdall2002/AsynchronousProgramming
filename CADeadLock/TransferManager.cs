@@ -8,7 +8,7 @@ using System.Diagnostics;
 
 namespace CADeadLock
 {
-    public class TransferManager
+    class TransferManager
     {
         private Wallet from;
         private Wallet to;
