@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\bin\Debug\net7.0\CAThreadPool.exe
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\bin\Debug\net7.0\CAThreadPool.deps.json
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\bin\Debug\net7.0\CAThreadPool.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\bin\Debug\net7.0\CAThreadPool.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\bin\Debug\net7.0\CAThreadPool.pdb
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\obj\Debug\net7.0\CAThreadPool.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\obj\Debug\net7.0\CAThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\obj\Debug\net7.0\CAThreadPool.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\obj\Debug\net7.0\CAThreadPool.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\obj\Debug\net7.0\CAThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\obj\Debug\net7.0\CAThreadPool.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\obj\Debug\net7.0\refint\CAThreadPool.dll
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\obj\Debug\net7.0\CAThreadPool.pdb
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\obj\Debug\net7.0\CAThreadPool.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\AsynchronousProgramming\CAThreadPool\obj\Debug\net7.0\ref\CAThreadPool.dll
