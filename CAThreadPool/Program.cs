@@ -3,7 +3,9 @@
 
 using System;
 
-//Task.Run(Print); 
+// -> 1
+//Task.Run(Print);
+// -> 2
 Print();
 async Task Print()
 {
